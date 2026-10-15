@@ -1,0 +1,23 @@
+# Daily Python Journey
+
+Documenting my progress learning Python programming and software logic from scratch.
+
+---
+
+### Day 1: Core Conditions & Data Types
+- **Topics:** Input parsing (`input()`), type casting (`int()`, `float()`), and conditional statements (`if`, `elif`, `else`).
+- **Files:** `day_01_practice.py`
+- **What it does:**
+  - Converts Celsius to Fahrenheit and classifies temperature zones.
+  - Evaluates student marks using compound conditional logic (`or` / `and`).
+
+---
+
+### Day 2: Dynamic Processing with Lists & Loops
+- **Topics:** Dynamic input handling, lists (`[]`), `.append()`, `for` loops, and built-in aggregations.
+- **Files:** `skill up day 2.py`
+- **What it does:**
+  - Evaluates any dynamic number of subjects entered by the user.
+  - Automatically calculates total, average, maximum, and minimum scores using `sum()`, `max()`, and `min()`.
+  - Implements a boolean evaluation flag to verify that all subjects meet passing criteria.
+  - 
