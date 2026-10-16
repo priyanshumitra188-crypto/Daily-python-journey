@@ -21,3 +21,12 @@ Documenting my progress learning Python programming and software logic from scra
   - Automatically calculates total, average, maximum, and minimum scores using `sum()`, `max()`, and `min()`.
   - Implements a boolean evaluation flag to verify that all subjects meet passing criteria.
   - 
+---
+
+### Day 3: Key-Value Mapping with Dictionaries
+- **Topics:** Dictionaries (`dict`), `.items()`, `.values()`, structured records, and multi-variable state tracking.
+- **Files:** `day_03_report_card.py`
+- **What it does:**
+  - Connects human-readable subject names with numerical scores dynamically.
+  - Detects and isolates specific failed subjects into an alert list.
+  - Tracks top-performing and lowest-performing categories by label and value simultaneously.
